@@ -11,7 +11,7 @@ def gptmes(args):
         for i in range(2, len(args)):
             text = text + args[i]
     msg = str(text)
-    url = "http://8.222.211.157:5000/api?text=" + parse.quote(msg)
+    url = "http://yourserverhost:5000/api?text=" + parse.quote(msg)
     res = request.urlopen(url)
     content = res.read().decode()
     return content
