@@ -28,3 +28,19 @@ Nonebot2-OpenAPI-Flaskget
 > 3.运行server.py<br/>
 > 4.为plugins中的两个文件available.py和chat.py配置服务器ip<br/>
 > 5.将plugins放入Nonebot2项目文件的plugins文件夹并启动机器人<br/>
+>
+> 
+### 参考网站
+ ##### CSDN **python开发API接口** 作者：默金……<http://t.csdn.cn/ZPJ2X><br/>
+ ##### 简书 **OPENAI KEY gpt-3.5-turbo-0301 上下文 python应用举例 import openai** 作者：诸老师 <https://www.jianshu.com/p/6b05c3329870><br/>
+ ##### CSDN **Python笔记-从配置读取参数** 作者：DBA大董  <http://t.csdn.cn/4lWjl>
+
+
+<figure>
+  <blockquote>
+  这是Stel2ari的第一条Public提交，是一个新的开始
+  </blockquote>
+  <figcaption>
+    
+  </figcaption>
+</figure>
